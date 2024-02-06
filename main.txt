@@ -1,4 +1,4 @@
-this is master dot txt
+this is master txt
 slave 2 added 
 changes output showed in slave
 ubuntu@ip-172-31-38-84:~/jenkins/workspace/job1$ cat main.txt 
